@@ -11,12 +11,18 @@
 
 package com.learning.java;
 
-public class _32_OOPS_Inheritance_Encapsulation_App {
+public class _31_OOPS_Encapsulation {
 
-    public static void main(String[] args) {
-        _31_OOPS_Inheritance_Encapsulation obj = new _31_OOPS_Inheritance_Encapsulation();
-        System.out.println("obj.getPrivateString() = " + obj.getPrivateString()); // Private String
-    }// main
+    // Encapsulation:
+        // Wrapping up of data under a single unit! The data is protected!
+
+    // Field - Private
+    private String str ="Private String";
+
+    // Method - Public
+    public String getPrivateString(){
+        return str;
+    }
 }// class
 
 
