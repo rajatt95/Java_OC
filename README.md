@@ -1,5 +1,5 @@
 # Java_OC
-Programming | Java | IntelliJ | OOPS concepts - Abstraction, Encapsulation, Inheritance, Polymorphism | Access Modifiers | Exception Handling | File Operations
+Programming | Java | IntelliJ | Data Types - Primitive, Reference | String and its operations | Control Statements - For, ForEach, While, Switch-Case| OOPS concepts - Abstraction, Encapsulation, Inheritance, Polymorphism | Interface | Abstract class | Access Modifiers | Exception Handling | File Operations
 
 ------------------------------------------------------------------------------------------------------------------------
 # Course: <a href="https://www.udemy.com/course/selenium-java-test-framework/">Selenium Java Test Framework & Best Practices - Masterclass </a>
