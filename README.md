@@ -6,8 +6,7 @@ Programming | Java | IntelliJ | Data Types - Primitive, Reference | String and i
 
 # Tutor: <a href="https://www.udemy.com/user/omprakash-chavan/">Omprakash Chavan</a>
 ------------------------------------------------------------------------------------------------------------------------
-Learnings from Course : 
-
+# Learnings from Course : [UDEMY_Programming_Language_OC_Java.pdf](https://github.com/rajatt95/Java_OC/files/8697810/UDEMY_Programming_Language_OC_Java.pdf)
 ------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/26399692/168388603-7a07be4d-bb75-412d-9bea-f38b0e4725b6.png)
 ![image](https://user-images.githubusercontent.com/26399692/168388645-c0aace53-d4ad-44b5-9a1e-3719a5a7572c.png)
